@@ -74,9 +74,10 @@ A dynamic feature allowing users to view historical price data for products on e
 - **Distill roBERTa+ Classifier**: Analyzes textual content from e-commerce websites to identify dark patterns.
 - **Mistral LLM Model**: Integrates analysis from image captions, extracted text, and reviews, ensuring data integrity. It also evaluates privacy policies and subscription tricks against legal standards.
 
-### Poster 
-
-![Guard's Eye Poster](./Poster/DPBH poster.png)
+## Poster
+<div align="center">
+  <img src="https://github.com/Sandy-exe/DPBH_Hackathon_Main/blob/main/Poster/DPBH%20poster.png" width="600"/>
+</div>
 
 ## Conclusion
 
