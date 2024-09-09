@@ -74,6 +74,10 @@ A dynamic feature allowing users to view historical price data for products on e
 - **Distill roBERTa+ Classifier**: Analyzes textual content from e-commerce websites to identify dark patterns.
 - **Mistral LLM Model**: Integrates analysis from image captions, extracted text, and reviews, ensuring data integrity. It also evaluates privacy policies and subscription tricks against legal standards.
 
+### Poster 
+
+![Guard's Eye Poster](./Poster/DPBH poster.png)
+
 ## Conclusion
 
 **Guard's Eye** represents a robust solution to tackle various dark patterns in e-commerce. Through teamwork and cutting-edge technology, we aim to empower users to make informed choices and protect themselves from manipulative practices online.
